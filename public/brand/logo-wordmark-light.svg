@@ -1,0 +1,12 @@
+<svg width="460" height="160" viewBox="0 0 460 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="bite-wm">
+      <rect x="0" y="0" width="460" height="160" fill="black"/>
+      <circle cx="55" cy="80" r="35" fill="white"/>
+      <circle cx="68" cy="68" r="31" fill="black"/>
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="460" height="160" fill="#0E1B14" mask="url(#bite-wm)"/>
+  <circle cx="86" cy="105" r="5" fill="#E8B24D"/>
+  <text x="135" y="100" font-family="Poppins, sans-serif" font-size="58" font-weight="600" fill="#0E1B14">Cahya</text>
+</svg>
